@@ -5,8 +5,6 @@ st.title("Dashboard Analitik Housing 🏠")
 
 st.write("Aplikasi berhasil berjalan!")
 
-st.success("App sudah aktif ✅")
-
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
