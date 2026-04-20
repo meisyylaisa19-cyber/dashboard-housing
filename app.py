@@ -1,5 +1,8 @@
 import streamlit as st
-st.title("Dashboard Berjalan ✅")
+st.set_page_config(page_title="Dashboard Analitik", layout="wide")
+st.title("Dashboard Analitik Housing 🏠")
+st.write("Aplikasi berhasil berjalan!")
+st.success("App sudah aktif ✅")
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
