@@ -1,5 +1,4 @@
 import streamlit as st
-
 st.set_page_config(page_title="Test App", layout="wide")
 
 st.title("🔥 STREAMLIT BERJALAN")
@@ -7,6 +6,7 @@ st.title("🔥 STREAMLIT BERJALAN")
 st.success("Kalau ini muncul, berarti sistem OK")
 
 st.write("Deploy berhasil 🎉")
+
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
